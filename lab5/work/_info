@@ -1,0 +1,231 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kevin/OneDrive/Documents/ECE253/lab5
+vDisplayCounter
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1666982249
+!i10b 1
+!s100 iD4]kAcGSGHzciVVC:ScB3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IfMz@T[2PzT]4kI2TA:zFW2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1666982240
+Z6 8part2.sv
+Z7 Fpart2.sv
+!i122 86
+L0 46 17
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1666982249.000000
+Z10 !s107 part2.sv|
+Z11 !s90 -reportprogress|300|part2.sv|
+!i113 1
+Z12 tCvgOpt 0
+n@display@counter
+vNewBitOutCounter
+R1
+Z13 !s110 1667321699
+!i10b 1
+!s100 Izh0W_98`mNzK2S3Lmf3^3
+R3
+I`8dlM6GzBUzA]1FbA[57G0
+R4
+S1
+R0
+Z14 w1667321320
+Z15 8part3-2.sv
+Z16 Fpart3-2.sv
+!i122 124
+L0 62 19
+R8
+r1
+!s85 0
+31
+Z17 !s108 1667321699.000000
+!s107 part3-2.sv|
+Z18 !s90 -reportprogress|300|part3-2.sv|
+!i113 1
+R12
+n@new@bit@out@counter
+vpart1
+R1
+Z19 !s110 1666974093
+!i10b 1
+!s100 eP@nU=V<P_TZEh_dJ`0Nn3
+R3
+IeeBE4zdOlEoM:o3nULCXL2
+R4
+S1
+R0
+Z20 w1666973879
+Z21 8part1.sv
+Z22 Fpart1.sv
+!i122 37
+L0 1 30
+R8
+r1
+!s85 0
+31
+Z23 !s108 1666974093.000000
+Z24 !s107 part1.sv|
+Z25 !s90 -reportprogress|300|part1.sv|
+!i113 1
+R12
+vpart2
+R1
+R2
+!i10b 1
+!s100 DA@:3kgO>:7VcYEgHQmBY2
+R3
+I5fST]_JfLIAWc6fZ1QM]U3
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 86
+L0 1 12
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vpart3
+R1
+R13
+!i10b 1
+!s100 kQhMK8gdCg2G=S:QXGT6Z2
+R3
+IjBHAnjDAH7j_N8WWMmD>J3
+R4
+S1
+R0
+R14
+R15
+R16
+!i122 124
+L0 3 36
+R8
+r1
+!s85 0
+31
+R17
+Z26 !s107 part3-2.sv|
+R18
+!i113 1
+R12
+vRateDivider
+R1
+R13
+!i10b 1
+!s100 z7[ROe`D31zS]_DCU1]fU1
+R3
+I0@U6KkEAG7fA:D=j68oQa3
+R4
+S1
+R0
+R14
+R15
+R16
+!i122 124
+L0 41 19
+R8
+r1
+!s85 0
+31
+R17
+R26
+R18
+!i113 1
+R12
+n@rate@divider
+vShift
+R1
+!s110 1667277630
+!i10b 1
+!s100 @n<:^QJ<m?nAoil3n7_:[3
+R3
+I4mT820WDcX_i6X_]2UjDO2
+R4
+S1
+R0
+w1667262137
+8part3.sv
+Fpart3.sv
+!i122 118
+L0 66 30
+R8
+r1
+!s85 0
+31
+!s108 1667277630.000000
+!s107 part3.sv|
+!s90 -reportprogress|300|part3.sv|
+!i113 1
+R12
+n@shift
+vshiftreg
+R1
+R13
+!i10b 1
+!s100 7hCobjP3M6_D_nDm0G@Vl1
+R3
+IOd3CEVT^DjNN<n`lzRNS20
+R4
+S1
+R0
+R14
+R15
+R16
+!i122 124
+L0 83 31
+R8
+r1
+!s85 0
+31
+R17
+R26
+R18
+!i113 1
+R12
+vtflip
+R1
+R19
+!i10b 1
+!s100 KBPjSgo=6ULQ5kofK[4Ck3
+R3
+IPi]=AZIkX^^V>XECD<AEO3
+R4
+S1
+R0
+R20
+R21
+R22
+!i122 37
+L0 33 13
+R8
+r1
+!s85 0
+31
+R23
+R24
+R25
+!i113 1
+R12

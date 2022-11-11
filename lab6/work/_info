@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kevin/OneDrive/Documents/ECE253/lab6
+vcontrol
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1667594705
+!i10b 1
+!s100 NX^lHVol51`8=V<dEnKnf0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_n]4^Fl:03f96P7:1niLd0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1667594699
+Z6 8part2.sv
+Z7 Fpart2.sv
+!i122 24
+L0 59 132
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1667594705.000000
+!s107 part2.sv|
+Z10 !s90 -reportprogress|300|part2.sv|
+!i113 1
+Z11 tCvgOpt 0
+vdatapath
+R1
+R2
+!i10b 1
+!s100 3Mz_C=60d?b5b`CEN?EEe3
+R3
+ISCRg^GQVj^@1NE]0Ocf?^0
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 24
+L0 192 80
+R8
+r1
+!s85 0
+31
+R9
+Z12 !s107 part2.sv|
+R10
+!i113 1
+R11
+vpart1
+R1
+!s110 1667582788
+!i10b 1
+!s100 8;CfKl2A@Qi@Z?9U:_zZT0
+R3
+IkHLUHTF[kOeQ7@0AMfl8j2
+R4
+S1
+R0
+w1667342984
+8part1_template.sv
+Fpart1_template.sv
+!i122 7
+L0 1 80
+R8
+r1
+!s85 0
+31
+!s108 1667582787.000000
+!s107 part1_template.sv|
+!s90 -reportprogress|300|part1_template.sv|
+!i113 1
+R11
+vpart2
+R1
+R2
+!i10b 1
+!s100 UnPkTMR@?ogM_k;HiIm:G3
+R3
+I=4klATjeU4Y6IKRc3b24T3
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 24
+L0 1 56
+R8
+r1
+!s85 0
+31
+R9
+R12
+R10
+!i113 1
+R11
